@@ -11,3 +11,6 @@ https://pinkwink.kr/781
 
 d. Bayes theorem( the best way to explain Bayes' theorem (in Korean):
 https://hyeongminlee.github.io/post/bnn001_bayes_rule/
+
+e. sensor fusion EKF reference:
+https://s3.amazonaws.com/video.udacity-data.com/topher/2018/August/5b6a5331_sensor-fusion-ekf-reference/sensor-fusion-ekf-reference.pdf
