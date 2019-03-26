@@ -1,0 +1,4 @@
+﻿  tracking.cpp
+c:\users\slee194\documents\visual studio 2015\projects\udacity_lession23_13_cpp_laser_meas\udacity_lession23_13_cpp_laser_meas\tracking.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  udacity_Lession23_13_cpp_laser_meas.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\udacity_Lession23_13_cpp_laser_meas\Debug\udacity_Lesson23_13_cpp_laser_meas.exe
+  udacity_Lession23_13_cpp_laser_meas.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\udacity_Lession23_13_cpp_laser_meas\Debug\udacity_Lesson23_13_cpp_laser_meas.pdb (Full PDB)
